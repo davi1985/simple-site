@@ -24,6 +24,6 @@ One of must important and interesting part in this project is a modal builded wi
 
 ## Meta
 
-Davi Silva – [@YourTwitter](https://twitter.com/dssilvap) – dssilvap@hotmail.com
+Davi Silva – [@dssilvap](https://twitter.com/dssilvap) – dssilvap@hotmail.com
 
 [https://github.com/davi1985](https://github.com/davi1985)
